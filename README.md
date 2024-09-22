@@ -4,9 +4,6 @@ Welcome to my GitHub repository! This repo contains all the major projects I wor
 
 ## Table of Contents
 - [Projects Overview](#projects-overview)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-- [Project Structure](#project-structure)
 - [Contact](#contact)
 
 ## Projects Overview
@@ -27,13 +24,3 @@ Welcome to my GitHub repository! This repo contains all the major projects I wor
    - **Technologies**: Languages, frameworks, or tools used.
 
 ... (Add more projects as needed)
-
-## Technologies Used
-- **Languages**: Java, Python, C++, etc.
-- **Frameworks**: Flask, React, TensorFlow, etc.
-- **Tools**: Git, Docker, Jupyter Notebooks, etc.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
